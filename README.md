@@ -7,9 +7,8 @@
 </p>  
 
 - 🌱 I’m currently pursuing **Software Engineering at NIBM**  
-- 💬 Ask me about **Java, Spring Boot, React, Robotics, and Arduino**  
-- 👨‍💻 Check out my portfolio: [My Portfolio](https://thisaramendis.github.io/my-portfolio/)  
-- 📫 How to reach me: **thisaramendis@example.com**  
+- 💬 Ask me about **Java, Spring Boot, React, Robotics, and Arduino**   
+- 📫 How to reach me: **thisaramendis@gmail.com**  
 
 ---
 
