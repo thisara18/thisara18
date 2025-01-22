@@ -3,7 +3,7 @@
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=thisaramendis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
-  <img src="https://img.shields.io/github/followers/thisaramendis?label=Followers&style=social" alt="GitHub Followers" />  
+  <img src="https://img.shields.io/github/followers/thisara18?label=Followers&style=social" alt="GitHub Followers" />  
 </p>  
 
 - 🌱 I’m currently pursuing **Software Engineering at NIBM**  
